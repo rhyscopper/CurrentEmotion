@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="" fx:id="Background" prefHeight="375.0" prefWidth="550.0" stylesheets="@Main.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="currentemotion.FXMLDocumentController">
+   <children>
+      <Pane id="" fx:id="Happy" layoutX="25.0" layoutY="25.0" prefHeight="150.0" prefWidth="150.0" stylesheets="@Main.css" />
+      <Pane id="" fx:id="Anger" layoutX="200.0" layoutY="25.0" prefHeight="150.0" prefWidth="150.0" stylesheets="@Main.css" />
+      <Pane id="" fx:id="Fear" layoutX="375.0" layoutY="25.0" prefHeight="150.0" prefWidth="150.0" stylesheets="@Main.css" />
+      <Pane id="" fx:id="Sad" layoutX="25.0" layoutY="200.0" prefHeight="150.0" prefWidth="150.0" stylesheets="@Main.css" />
+      <Pane id="" fx:id="Suprised" layoutX="200.0" layoutY="200.0" prefHeight="150.0" prefWidth="150.0" stylesheets="@Main.css" />
+      <Pane id="" fx:id="Disgust" layoutX="375.0" layoutY="200.0" prefHeight="150.0" prefWidth="150.0" stylesheets="@Main.css" />
+   </children>
+</AnchorPane>

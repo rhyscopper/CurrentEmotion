@@ -1,0 +1,102 @@
+#background{
+    
+    -fx-background-color: #000000;
+}
+
+#happyColour{ 
+    -fx-background-image: url("pictures/HappyColour.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;
+}
+
+#happyBlack{ 
+    -fx-background-image: url("pictures/HappyBlack.jpeg");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;
+}
+
+#angerColour{ 
+    -fx-background-image: url("pictures/AngerColour.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;
+}
+
+#angerBlack{ 
+    -fx-background-image: url("pictures/AngerBlack.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;
+}
+
+#fearColour{ 
+    -fx-background-image: url("pictures/FearColour.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;
+}
+
+#sadColour{ 
+    -fx-background-image: url("pictures/SadColour.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;
+}
+
+#suprisedColour{ 
+    -fx-background-image: url("pictures/SuprisedColour.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;
+}
+
+#disgustColour{ 
+    -fx-background-image: url("pictures/DisgustColour.jpg");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;
+}
+
+#happyBlack{ 
+    -fx-background-image: url("pictures/HappyBlack.jpeg");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;
+}
+
+#angerBlack{ 
+    -fx-background-image: url("pictures/AngerBlack.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;
+}
+
+#fearBlack{ 
+    -fx-background-image: url("pictures/FearBlack.jpeg");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;
+}
+
+#sadBlack{ 
+    -fx-background-image: url("pictures/SadBlack.jpeg");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;
+}
+
+#suprisedBlack{ 
+    -fx-background-image: url("pictures/SuprisedBlack.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;
+}
+
+#disgustBlack{ 
+    -fx-background-image: url("pictures/DisgustBlack.jpeg");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;
+}
